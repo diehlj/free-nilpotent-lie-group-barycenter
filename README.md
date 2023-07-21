@@ -3,3 +3,5 @@ Clausel, M., Diehl, J., Mignot, R., Schmitz, L., Sugiura, N. and Usevich, K., 20
 [https://arxiv.org/abs/2305.18996]
 
 Code available soon.
+
+-   `groupmean_ambient.py`: algorithm using updates in the ambient space.
